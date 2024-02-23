@@ -10,7 +10,7 @@
 
 Language: Cpp
 BasedOnStyle: LLVM
-AccessModifierOffset: -4
+AccessModifierOffset: -5
 AlignAfterOpenBracket: AlwaysBreak
 AlignEscapedNewlines: Left
 AlwaysBreakAfterReturnType: None
